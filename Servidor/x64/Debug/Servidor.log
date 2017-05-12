@@ -1,0 +1,7 @@
+﻿  Servidor.c
+c:\users\lipap\desktop\trabalhos 2semestre\snake multijogador\snake\dll\dll.h(19): error C2059: syntax error: 'string'
+c:\users\lipap\desktop\trabalhos 2semestre\snake multijogador\snake\servidor\servidor.c(11): warning C4013: '_setmode' undefined; assuming extern returning int
+c:\users\lipap\desktop\trabalhos 2semestre\snake multijogador\snake\servidor\servidor.c(11): warning C4013: '_fileno' undefined; assuming extern returning int
+c:\users\lipap\desktop\trabalhos 2semestre\snake multijogador\snake\servidor\servidor.c(11): error C2065: '_O_WTEXT': undeclared identifier
+c:\users\lipap\desktop\trabalhos 2semestre\snake multijogador\snake\servidor\servidor.c(12): error C2065: '_O_WTEXT': undeclared identifier
+c:\users\lipap\desktop\trabalhos 2semestre\snake multijogador\snake\servidor\servidor.c(32): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
